@@ -1,7 +1,7 @@
 ### Prazer! Eu sou o Caio e é muito bom ter você por aqui 🫡
 
 
-[![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-nascimento-b92647182/)
+[![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-nascimento-cunha/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caio_nc?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
 
 ![Caio Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioNascimentoCunha&show_icons=true&theme=dark)
