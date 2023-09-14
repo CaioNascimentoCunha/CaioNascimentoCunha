@@ -3,7 +3,7 @@
 
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-nascimento-b92647182/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caio_nc?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://caionascunha@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a href="mailto:caionascunha@gmail.com">)
 
 ![Caio Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioNascimentoCunha&show_icons=true&theme=dark)
 
